@@ -6,10 +6,6 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Logs
-*.log
-trading_bot.log
-
 venv/
 env/
 .venv/

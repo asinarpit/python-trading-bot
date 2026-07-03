@@ -1,0 +1,12 @@
+2026-07-03 15:56:33 - INFO - trading_bot - Successfully connected to Binance Futures Testnet
+2026-07-03 15:56:33 - INFO - trading_bot - Attempting to place LIMIT SELL order for 0.1 BTCUSDT
+2026-07-03 15:56:34 - ERROR - trading_bot - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-07-03 16:05:52 - INFO - trading_bot - Successfully connected to Binance Futures Testnet
+2026-07-03 16:05:52 - INFO - trading_bot - Attempting to place LIMIT SELL order for 0.1 BTCUSDT
+2026-07-03 16:05:53 - INFO - trading_bot - Order successfully placed!! Order ID: 18697174729
+2026-07-03 16:11:55 - INFO - trading_bot - Successfully connected to Binance Futures Testnet
+2026-07-03 16:11:55 - INFO - trading_bot - Attempting to place MARKET BUY order for 0.01 BTCUSDT
+2026-07-03 16:11:56 - INFO - trading_bot - Order successfully placed!! Order ID: 18698164740
+2026-07-03 16:12:21 - INFO - trading_bot - Successfully connected to Binance Futures Testnet
+2026-07-03 16:12:21 - INFO - trading_bot - Attempting to place LIMIT SELL order for 0.01 BTCUSDT
+2026-07-03 16:12:22 - INFO - trading_bot - Order successfully placed!! Order ID: 18698232642
